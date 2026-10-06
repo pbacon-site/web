@@ -1,4 +1,4 @@
-:root{--navy:#264571;--gold:#E8B941;--pale:#E2ECF7;--slate:#7A93B1;--ink:#0F1A2B}
+:root{--navy:#0f3a61;--gold:#fcdb1b;--pale:#ddecfc;--slate:#7295b5;--ink:#0f3a61}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{margin:0;font-family:"Hanken Grotesk","DM Sans","Helvetica Neue",Arial,sans-serif;font-weight:300;color:var(--navy);background:var(--pale);line-height:1.65;font-size:1.1rem}
